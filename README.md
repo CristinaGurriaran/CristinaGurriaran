@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Cris
 I'm a dedicated problem solver who loves making things work. As a fullstack web developer, I enjoy exploring new technologies and continuously enhancing my skills.
-  
 
+---
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
