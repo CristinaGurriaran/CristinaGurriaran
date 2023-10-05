@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Cris
 I'm a dedicated problem solver who loves making things work. As a fullstack web developer, I enjoy exploring new technologies and continuously enhancing my skills.
   
----
+
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -19,8 +19,8 @@ I'm a dedicated problem solver who loves making things work. As a fullstack web 
 
 ---
 
-### 🚀 Currently working on <a href="https://github.com/CristinaGurriaran/portfolio/tree/main/roamdesk"> RoamDesk </a>:
-This project is focused on helping remote workers discover ideal workspaces in Barcelona. Feel free to check it out and share your thoughts!
+### 🚀 Currently working on RoamDesk:
+<a href="https://github.com/CristinaGurriaran/portfolio/tree/main/roamdesk"> This project </a> is focused on helping remote workers discover ideal workspaces in Barcelona. Feel free to check it out and share your thoughts!
 
 ---
 
